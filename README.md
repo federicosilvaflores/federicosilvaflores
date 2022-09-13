@@ -27,7 +27,7 @@ If you are interested in me being part of your team and we can grow together �
 <br/>  
 
 
-## Rapidfire  
+## About Me  
 <table><tr><td valign="top" width="50%">
 
 - 🔭I’m currently working on my Portfolio and finishing up some other projects. I am using plain html and css to create it. My projects will soon me deployed on vercel, but for now they will be links to my github profile.  
