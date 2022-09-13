@@ -102,7 +102,7 @@ If you are interested in me being part of your team and we can grow together �
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 <!--
 **federicosilvaflores/federicosilvaflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
