@@ -101,6 +101,10 @@ If you are interested in me being part of your team and we can grow together ğŸ¤
 
 <br />
 
+ğŸ“« How to reach me **federicosilvaflores@gmail.com**
+
+
+
 ----
 
 <!--
