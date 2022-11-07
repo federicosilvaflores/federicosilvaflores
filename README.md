@@ -16,7 +16,7 @@ Hello!👋🏼 I'm Federico, Full Stack Web Developer. I consider myself a dedic
 
 I am passionate about technology, since I was a child I have always been interested in this wonderful world and every day that I learn something new it excites me a little more. I am going to contribute so that we are all closer to being able to understand and interact in this wonderful field.
 
-I am currently looking for my first job as a web developer, which allows me to continue venturing into the world of technology to be able to grow professionally and personally💪🏼, it motivates me to be able to improve myself every day facing new challenges and reaching the goals that present me.
+I am currently in constant learning, in order to continue dabbling in the world of technology and thus be able to grow professionally and personally💪🏼, it motivates me to overcome every day facing new challenges and achieving the goals that are presented to me.
 
 My experience has been mainly in the academic field at the SoyHenry🚀 bootcamp where I was able to execute my technical and soft skills as a developer in a teamwork environment👥. The technologies currently used are: HTML, CSS, Git, JavaScript, ReactJs, Redux, NodeJs, PostgreSQL, Express, Sequelize, MongoDB and Python.
 
